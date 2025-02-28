@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camiicatt
 - 👀 I’m interested in creating wonderful experiences 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Bash
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta @camillelhart
 - 😄 Pronouns: she / her
