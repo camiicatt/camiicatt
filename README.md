@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @camiicatt
 - 👀 I’m interested in creating wonderful experiences 
-- 🌱 I’m currently learning Bash
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on any creative game!
 - 😄 Pronouns: she / her
 
 <!---
