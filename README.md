@@ -41,7 +41,7 @@ const camille = {
     "game development",
   ],
   currentlyBuilding: "software that makes complex workflows feel simple",
-  funFact: "I believe every project is improved by at least one cat 🐈",
+  funFact: "I believe every project is coded better with a cat on your lap ",
 };
 ```
 
