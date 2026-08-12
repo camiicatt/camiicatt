@@ -6,7 +6,7 @@
 
 ```text
        /\_/\
-      ( o.o )    < hello, world!
+              ( o.o )    < hello, world!
        > ^ <
      /|     |\
     (_|  C  |_)
