@@ -2,7 +2,7 @@
 
 # Hi, I'm Camille! ฅ^•ﻌ•^ฅ
 
-### Software Engineer · Creative Developer · Professional Pixel Wrangler
+### Software Engineer · Creative Developer 
 
 ```text
        /\_/\
