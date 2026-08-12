@@ -6,12 +6,13 @@
 
 ```text
        /\_/\
-              ( o.o )    < hello, world!
+      ( o.o )    
        > ^ <
      /|     |\
     (_|  C  |_)
       |_____|
        /   \
+< hello, world!
 ```
 
 I build software that turns complicated ideas into playful, accessible,
